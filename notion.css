@@ -383,7 +383,7 @@ Responsive layout - makes the two columns stack on top of each other instead of 
   border-top: 1px solid #ddd;
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
-  border-bottom: 1.43rem solid #007d6f;
+  border-bottom: 1.43rem solid #885EA3;
 }
 
 body { 
@@ -1133,20 +1133,20 @@ font-family: "Montserrat",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","
 }
 
 .pkp_navigation_primary_row {
-  background: #007d6f;
+  background: #885EA3;
   padding-left: 2.143rem;
   padding-right: 2.143rem;
 }
 /*BACKGROUND PDF*/
 .cmp_manuscript_button, .block_make_submission a, .obj_galley_link {
-  background: #007d6f
+  background: #885EA3
   color: white;
 }
 .obj_galley_link {
   display: inline-block;
   padding: 0 1em;
-  background: #007d6f;
-  border: 1px solid #007d6f;
+  background: #885EA3;
+  border: 1px solid #885EA3;
   border-radius: 3px;
   font-size: 13px;
   line-height: 28px;
@@ -1155,7 +1155,7 @@ font-family: "Montserrat",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","
 }
 .obj_galley_link:hover {
   background: #fff;
-  color: #007d6f;
+  color: #885EA3;
   text-decoration: double;
 }
 
@@ -1252,13 +1252,13 @@ a:hover{
     font-weight: 400;
     text-align: center;
     text-transform: uppercase;
-    border-bottom: 2px solid #007d6f;
+    border-bottom: 2px solid #885EA3;
     text-align: center;
-    background-color: #007d6f;
+    background-color: #885EA3;
 }
 .pkp_nav_list ul a:hover{
   background: #fce386;
-  color:#007d6f;
+  color: #885EA3;
 }
 
 img {
@@ -1290,7 +1290,7 @@ button:hover {
 
 #navigationPrimary a {
   color: #fff;
-  background: #007d6f;
+  background: #885EA3;
 }
 */
 
