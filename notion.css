@@ -3,6 +3,14 @@
 /* Navigasi menu - ganti hijau jadi navy/biru tua */
 .pkp_navigation_primary_row {
     background: #1a2332 !important;
+    background-color: #1a2332 !important;
+    background-image: none !important;
+}
+
+.pkp_structure_page .pkp_navigation_primary_row {
+    background: #1a2332 !important;
+    background-color: #1a2332 !important;
+    background-image: none !important;
 }
 
 .pkp_navigation_primary_row a {
