@@ -7,7 +7,7 @@ max-height: 200% !important; /*mengganti warna menu (#31A9E1) dan gambar header 
 /*List Arikel Background*/
 .obj_issue_toc .articles > li {
   margin-bottom: 20px;
-  border-bottom: solid #007d6f;
+  border-bottom: solid #8f0776;
   padding: 1rem;
   background-color: #ececec;
 }
